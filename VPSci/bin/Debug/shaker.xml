@@ -1,0 +1,5 @@
+<config>
+	<inTerminator>cr</inTerminator>
+	<outTerminator>crlf</outTerminator>
+	<lastComPort>Com1</lastComPort>
+</config>
