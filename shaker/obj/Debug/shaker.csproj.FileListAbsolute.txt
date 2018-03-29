@@ -1,0 +1,6 @@
+C:\Users\TriangleSoftware\Documents\Visual Studio 2017\Projects\VPSci\shaker\bin\Debug\shaker.dll
+C:\Users\TriangleSoftware\Documents\Visual Studio 2017\Projects\VPSci\shaker\bin\Debug\shaker.pdb
+C:\Users\TriangleSoftware\Documents\Visual Studio 2017\Projects\VPSci\shaker\obj\Debug\shaker.csproj.CoreCompileInputs.cache
+C:\Users\TriangleSoftware\Documents\Visual Studio 2017\Projects\VPSci\shaker\obj\Debug\shaker.dll
+C:\Users\TriangleSoftware\Documents\Visual Studio 2017\Projects\VPSci\shaker\obj\Debug\shaker.pdb
+C:\Users\TriangleSoftware\Documents\Visual Studio 2017\Projects\VPSci\shaker\obj\Debug\shaker.csprojResolveAssemblyReference.cache
